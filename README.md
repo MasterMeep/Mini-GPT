@@ -1,5 +1,5 @@
 # Mini-GPT
-A basic form of a transformer from "all you need is attention" that implements self attention made to mimic shakespearean writing (or any large set of text)
+A basic form of a transformer from "all you need is attention" that implements self attention made to mimic shakespearean writing (or any large set of text) as the input size is not very large and the tokenization is a basic character based tokenization function, the model can only simulate how the text "sounds" and not generate correct words or stories
 
 # Example output (1000 chararcters)
 
