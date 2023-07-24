@@ -1,7 +1,7 @@
 # Mini-GPT
 A basic form of a transformer from "all you need is attention" that implements self attention made to mimic shakespearean writing (or any large set of text)
 
-# Example output
+# Example output (1000 chararcters)
 
 ULYCUS:
 Have sir, like othe two hard smogh.
